@@ -55,9 +55,11 @@ p {
 }
 
 .info {
+    display: flex;
     flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 20px 20px 20px 20px;
     width: 1100px;
-    margin: 0px;
 }
 
 article {
